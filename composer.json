@@ -1,0 +1,19 @@
+{
+    "name": "567/meituan-dispath",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "567",
+            "email": "978713427@qq.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cblink\\MeituanDispatch": "src/"
+        }
+    }
+}
